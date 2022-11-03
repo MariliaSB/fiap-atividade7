@@ -1,3 +1,16 @@
+Atividade 7 - Curso Full-Stack FIAP
+
+a Atividade consistia em:
+
+  - Criar um projeto com o NestJS
+  - Criar um módulo, controller e service para a rota /register
+  - O múdulo deve receber - name, email, password, site, phone
+  - Simular o cadastro do cliente e exibir a mensagem - Cliente "Nome" cadastrado com sucesso!
+  - Criar DTOs para validar corretamente os parâmetros solicitados, todos os campos, exceto o phone é obrigatório
+
+---------------------------------------------------------------------
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
